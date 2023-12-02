@@ -71,6 +71,3 @@ def main():
 if __name__ == '__main__':
     sys.exit(main())
 
-#Architecture
-#   open file
-#   for each gameid f [gameid(r(2,45,64),g(2,45,64),b(2,45,64)),gameid()]
